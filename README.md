@@ -1,5 +1,7 @@
 # 🏨 Operational Efficiency Dashboard
 
+
+
 ## 📌 Project Summary
 Developed an end-to-end operational analytics dashboard in Tableau to monitor and optimize hotel operations, workforce efficiency, maintenance performance, and guest experience.  
 The dashboard enables real-time KPI tracking, month-over-month performance analysis, and department-level operational insights to support data-driven decision-making for hospitality management teams.
