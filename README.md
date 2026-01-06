@@ -1,6 +1,6 @@
 # 🏨 Operational Efficiency Dashboard
 
-https://github.com/Rohan30/Operational_Efficiency_Dashboard/blob/main/Screenshot%20-%20Ops%20Eff%20Dashboard.png
+
 
 
 
