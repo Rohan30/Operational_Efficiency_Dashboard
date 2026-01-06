@@ -1,6 +1,12 @@
 # 🏨 Operational Efficiency Dashboard
 
 
+<p align="center">
+  <img src="Screenshot%20-%20Ops%20Eff%20Dashboard.png" 
+       alt="Operational Efficiency Dashboard" 
+       width="900"/>
+</p>
+
 
 
 
