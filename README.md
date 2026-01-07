@@ -75,14 +75,12 @@ This dashboard addresses these challenges by providing a centralized BI solution
 ---
 
 ## 🛠 Tools & Technologies
-- Tableau Desktop  
-- Tableau Public  
-- Data Visualization & Dashboarding  
+- Tableau - Dashboard Development
+- Python - Data Transformation
 - KPI Design & Performance Analytics  
 
 ---
 
-## 🌐 Live Dashboard
 **Tableau Public Link:** *(Add link here)*
 
 ---
